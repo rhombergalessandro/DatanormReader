@@ -1,0 +1,10 @@
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\bin\Debug\DatanormReader.exe.config
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\bin\Debug\DatanormReader.exe
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\bin\Debug\DatanormReader.pdb
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.Form1.resources
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.Properties.Resources.resources
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.SettingsForm.resources
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.csproj.GenerateResource.Cache
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.exe
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.pdb
+C:\Users\18-1809\Documents\Alessandro - iT-Plus\developer\Visual Studio 2015\Projects\DatanormReader\DatanormReader\obj\Debug\DatanormReader.csprojResolveAssemblyReference.cache
